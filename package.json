@@ -1,0 +1,20 @@
+{
+  "name": "ttt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-loader": "7.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.5.1"
+  }
+}
